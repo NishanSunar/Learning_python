@@ -1,0 +1,1 @@
+s.clear() #this clear all the elements of the set
